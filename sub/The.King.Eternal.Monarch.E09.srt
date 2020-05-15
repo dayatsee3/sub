@@ -1,6 +1,7 @@
 ﻿1
 00:00:00,012 --> 00:00:04,744
-
+<font color="#ffff00"> ..:: Subtitle oleh</font> <font color="#0080ff">Deaz Putri ::..</font>
+<i>Resync/Edited By </i><font color="#ffff00">(Coffee_Prison)</font>
 
 2
 00:00:05,011 --> 00:00:07,514
