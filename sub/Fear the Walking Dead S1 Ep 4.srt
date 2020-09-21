@@ -1,0 +1,2841 @@
+﻿1
+00:00:00,037 --> 00:00:01,784
+<i>Sebelumnya, di Fear the Walking Dead...</i>
+
+2
+00:00:02,679 --> 00:00:04,546
+<i>Tetap di dekatku.
+Segera menuju mobil.</i>
+
+3
+00:00:06,967 --> 00:00:08,216
+Griselda!
+
+4
+00:00:08,301 --> 00:00:09,634
+Kita butuh bantuan dokter, Travis.
+
+5
+00:00:09,769 --> 00:00:12,103
+Apa yang terjadi pada pria itu, Ayah?
+
+6
+00:00:12,188 --> 00:00:13,888
+Orang-orang jatuh sakit.
+
+7
+00:00:13,974 --> 00:00:16,558
+Mereka tidak mati.
+Mereka bangkit kembali.
+
+8
+00:00:16,643 --> 00:00:19,738
+Kita tak bisa tangani ini sendirian. /
+Ayah bisa menanganinya.
+
+9
+00:00:19,813 --> 00:00:21,779
+Ayah, kita butuh bantuan mereka.
+
+10
+00:00:21,865 --> 00:00:24,983
+Hanya ini yang tersisa? /
+Ya, kuberikan sisanya ke Griselda.
+
+11
+00:00:25,118 --> 00:00:26,150
+Aku butuh obat-obatanku.
+
+12
+00:00:26,236 --> 00:00:28,116
+<i>Keadaan ini semakin
+memburuk, bukan sebaliknya.</i>
+
+13
+00:00:28,154 --> 00:00:29,487
+<i>Di sini tak aman lagi.</i>
+
+14
+00:00:54,281 --> 00:00:59,284
+<i>♪ Just a perfect day ♪</i>
+<font color="#ff8000">(Hari yang sempurna)</font>
+
+15
+00:00:59,286 --> 00:01:04,072
+<i>♪ Drink sangria in the park ♪</i>
+<font color="#ff8000">(Menikmati minuman di taman)</font>
+
+16
+00:01:04,074 --> 00:01:06,457
+<i>♪ And then later ♪</i>
+<font color="#ff8000">(Lalu kemudian)</font>
+
+17
+00:01:06,459 --> 00:01:10,044
+<i>♪ When it gets dark, we go home ♪</i>
+<font color="#ff8000">(Saat hari mulai gelap, kita pulang)</font>
+
+18
+00:01:15,418 --> 00:01:19,470
+<i>♪ Just a perfect day ♪</i>
+<font color="#ff8000">(Hari yang sempurna)</font>
+
+19
+00:01:19,472 --> 00:01:24,392
+<i>♪ You made me forget myself ♪</i>
+<font color="#ff8000">(Kau membuat diriku lupa diri)</font>
+
+20
+00:01:24,394 --> 00:01:28,062
+<i>♪ I thought I was someone else ♪</i>
+<font color="#ff8000">(Kukira aku seseorang yang lain)</font>
+
+21
+00:01:28,064 --> 00:01:29,847
+<i>♪ Someone good ♪</i>
+<font color="#ff8000">(Seseorang yang baik)</font>
+
+22
+00:01:32,387 --> 00:01:33,937
+<i>Satu lagi rumah yang terbakar semalam.</i>
+
+23
+00:01:33,939 --> 00:01:36,223
+<i>Kondisinya masih lebih baik dibandingkan
+yang kita lihat di televisi.</i>
+
+24
+00:01:36,225 --> 00:01:39,309
+<i>Para penjarah mengambil barang yang
+tersisa dari rumah itu empat hari lalu.</i>
+
+25
+00:01:39,311 --> 00:01:42,863
+<i>Sementara orang-orang seperti
+kita hanya bisa lari ketakutan.</i>
+
+26
+00:01:42,865 --> 00:01:45,699
+<i>Naik ke dalam mobil membawa
+sekoper perlengkapan.</i>
+
+27
+00:01:45,701 --> 00:01:48,285
+<i>Dan menuju ke wilayah Timur
+seperti yang dibicarakan.</i>
+
+28
+00:01:48,287 --> 00:01:50,987
+<i>Bakersfield, atau Vegas.
+Siapa yang tahu pasti?</i>
+
+29
+00:01:52,791 --> 00:01:56,209
+<i>♪ You just keep me hanging on ♪</i>
+<font color="#ff8000">(Kau membuatku terus berharap)</font>
+
+30
+00:01:56,211 --> 00:01:58,128
+<i>Terasa aman berada dalam pagar pelindung.</i>
+
+31
+00:01:58,130 --> 00:02:01,915
+<i>Di luar sana, segalanya telah tiada.</i>
+
+32
+00:02:01,917 --> 00:02:05,168
+<i>Ini sudah hari kesembilan.</i>
+
+33
+00:02:05,170 --> 00:02:08,138
+<i>Sembilan hari sejak listrik mati...</i>
+
+34
+00:02:08,140 --> 00:02:09,735
+<i>...dan pagar pelindung ini terbuat.</i>
+
+35
+00:02:09,816 --> 00:02:11,092
+<font color="#ff8000">JAM MALAM DIBERLAKUKAN</font>
+
+36
+00:02:11,093 --> 00:02:13,810
+<i>Dan para pasukan tentara
+mengambil alih.</i>
+
+37
+00:02:13,812 --> 00:02:15,345
+<i>Bergerak!</i>
+
+38
+00:02:15,347 --> 00:02:18,431
+<i>Travis bilang kita beruntung.</i>
+
+39
+00:02:18,433 --> 00:02:22,018
+<i>Dia bahkan mau mengadakan
+pesta bagi para tentara.</i>
+
+40
+00:02:22,020 --> 00:02:26,907
+<i>Dengar, kami bersyukur pada
+mereka yang menyelamatkan kami.</i>
+
+41
+00:02:26,909 --> 00:02:29,442
+<i>Pada mereka yang melindungi kita.</i>
+
+42
+00:02:29,444 --> 00:02:31,745
+<i>Pada mereka yang tahu...</i>
+
+43
+00:02:31,747 --> 00:02:35,498
+<i>...kapan waktunya memberi makan.</i>
+
+44
+00:02:35,500 --> 00:02:38,201
+<i>Jelas, sesuatu yang kau ambil
+dari alam, akan diambil kembali.</i>
+
+45
+00:02:39,621 --> 00:02:41,755
+Dan semua ini milik alam.
+
+46
+00:02:41,757 --> 00:02:46,042
+Termasuk anjing, mayat dan--
+
+47
+00:02:46,044 --> 00:02:51,298
+<i>♪ You just keep me hangin' on ♪</i>
+<font color="#ff8000">(Kau membuat diriku terus berharap)</font>
+
+48
+00:02:51,300 --> 00:02:55,885
+<i>♪ You just keep me hangin' on ♪</i>
+<font color="#ff8000">(Kau membuat diriku terus berharap)</font>
+
+49
+00:02:55,887 --> 00:02:57,804
+Halo.
+
+50
+00:02:58,029 --> 00:03:05,029
+<font color="#ff8000">Season 01 Episode 04</font>
+<font color="#ffff00">-- Not Fade Away --</font>
+
+51
+00:03:05,054 --> 00:03:13,054
+<font color="#ff8000">Translated by er1ck9</font>
+<font color="#ffffff">-- IDFL SubsCrew --</font>
+
+52
+00:03:25,914 --> 00:03:29,416
+Hei, kita harus mengecat
+ulang ruang keluarganya.
+
+53
+00:03:29,418 --> 00:03:30,717
+Kita sudah mengecatnya minggu lalu.
+
+54
+00:03:30,719 --> 00:03:32,302
+Ibu tahu, tapi dindingnya
+butuh lapisan cat baru.
+
+55
+00:03:32,304 --> 00:03:33,920
+Travis menemukan cat di garasi.
+
+56
+00:03:33,922 --> 00:03:35,422
+Apa gunanya semua ini?
+
+57
+00:03:35,424 --> 00:03:36,716
+<i>Semi-gloss.</i> <font color="#ff8000">(Cat yang memantulkan
+serta menyerap cahaya)</font>
+
+58
+00:03:36,742 --> 00:03:38,007
+Apa tadi yang kau bilang?
+
+59
+00:03:38,009 --> 00:03:39,559
+Takkan ada juga yang mau
+datang saat <i>open house</i>, Bu.
+
+60
+00:03:39,561 --> 00:03:40,761
+Pangsa pasar sedang jatuh.
+
+61
+00:03:40,762 --> 00:03:42,562
+Ibu masih melihat noda-noda
+di dindingnya.
+
+62
+00:03:42,564 --> 00:03:45,181
+Kau bahkan bisa lihat lautan nodanya.
+
+63
+00:03:47,486 --> 00:03:49,986
+Masih belum menyala?
+
+64
+00:03:49,988 --> 00:03:53,189
+Mungkin mereka tak mau
+boros dengan apa yang tersisa.
+
+65
+00:03:53,191 --> 00:03:54,691
+Jangan khawatir.
+
+66
+00:03:54,693 --> 00:03:56,910
+Mereka akan menanganinya.
+
+67
+00:03:56,912 --> 00:03:58,411
+Ah.
+
+68
+00:04:01,616 --> 00:04:03,783
+Kau mau ke mana?
+
+69
+00:04:03,785 --> 00:04:07,287
+Moyers, dia ingin
+mengumumkan sesuatu.
+
+70
+00:04:07,289 --> 00:04:09,089
+<i>Dia memintaku datang.</i>
+
+71
+00:04:09,091 --> 00:04:11,508
+Kita takkan mau membuatnya kesal, 'kan?
+
+72
+00:04:11,510 --> 00:04:13,543
+Baiklah.
+
+73
+00:04:13,545 --> 00:04:15,595
+Ada apa? /
+Berapa lama lagi?
+
+74
+00:04:15,597 --> 00:04:17,931
+Maddie. /
+Rumahku jadi tempat penampungan.
+
+75
+00:04:17,933 --> 00:04:20,183
+Kamar putriku jadi ruang
+UGD bagi orang asing.
+
+76
+00:04:20,185 --> 00:04:22,385
+Seseorang harus memasak, membersihkan-- /
+Dengar, tenanglah.
+
+77
+00:04:22,387 --> 00:04:24,387
+Seseorang harus menjaga Nick.
+
+78
+00:04:24,389 --> 00:04:26,272
+Dan seseorang itu adalah aku.
+
+79
+00:04:26,274 --> 00:04:27,974
+Karena aku tak tahu ke mana
+perginya mantan istrimu.
+
+80
+00:04:27,976 --> 00:04:31,444
+Dia membantu orang sakit.
+Apa ini mengenai Liza?
+
+81
+00:04:31,446 --> 00:04:34,197
+Apa? Tidak, ini soal kau. /
+Aku?
+
+82
+00:04:34,199 --> 00:04:36,199
+Ya, kau menjadi walikota...
+
+83
+00:04:36,201 --> 00:04:38,535
+Tidak. /
+...dan bersama para tentara...
+
+84
+00:04:38,537 --> 00:04:40,286
+Ini bukanlah perkara mudah. /
+...dan aku butuh bantuan di sini--
+
+85
+00:04:40,288 --> 00:04:42,705
+Hentikan, astaga.
+
+86
+00:04:42,707 --> 00:04:45,041
+Pertengkaran ini kalian anggap biasa.
+
+87
+00:04:45,043 --> 00:04:47,827
+Layaknya orang normal
+di sebuah dapur.
+
+88
+00:04:47,829 --> 00:04:51,247
+Itu tak normal.
+Hentikan.
+
+89
+00:04:54,836 --> 00:04:56,469
+Kau sudah siap pergi?
+
+90
+00:04:56,471 --> 00:04:58,505
+Dengan senang hati.
+
+91
+00:05:10,101 --> 00:05:11,768
+Lakukanlah.
+
+92
+00:05:11,770 --> 00:05:14,103
+<i>Ayolah.</i>
+
+93
+00:05:14,105 --> 00:05:15,572
+Ayolah.
+
+94
+00:05:25,500 --> 00:05:27,200
+Chris, apa yang kau lakukan?
+
+95
+00:05:27,202 --> 00:05:29,035
+Turunlah. /
+Ayah perlu melihat ini.
+
+96
+00:05:29,037 --> 00:05:30,537
+Chris, turunlah sekarang.
+
+97
+00:05:30,539 --> 00:05:32,372
+Ayah ingin kau membantu Madison, oke?
+
+98
+00:05:32,374 --> 00:05:34,090
+Baiklah, tapi lihatlah dahulu ini.
+
+99
+00:05:34,092 --> 00:05:37,343
+Ayah tak punya waktu-- /
+Sebentar saja.
+
+100
+00:05:41,132 --> 00:05:43,183
+Ayah lihat itu?
+
+101
+00:05:43,185 --> 00:05:44,517
+Lihat apa?
+
+102
+00:05:44,519 --> 00:05:46,135
+Gerakan yang memantulkan cahaya...
+
+103
+00:05:46,137 --> 00:05:48,188
+...tapi para tentara bilang tak
+ada orang di luar sana.
+
+104
+00:05:48,190 --> 00:05:50,723
+Baiklah, masuklah ke dalam.
+
+105
+00:05:50,725 --> 00:05:53,443
+Ayah, siapa tahu ada orang di luar sana. /
+Tak ada siapapun di luar sana.
+
+106
+00:05:53,445 --> 00:05:57,146
+Itu mungkin hanya refleksi cahaya
+matahari pada sebuah benda.
+
+107
+00:05:58,316 --> 00:06:01,451
+Hentikanlah, oke?
+
+108
+00:06:08,827 --> 00:06:10,577
+<i>Turunlah.</i>
+
+109
+00:06:19,304 --> 00:06:21,921
+Aku menemukan ini di meja.
+
+110
+00:06:21,923 --> 00:06:24,424
+Kurasa aku lupa.
+
+111
+00:06:24,426 --> 00:06:26,476
+Kau lupa?
+
+112
+00:06:26,478 --> 00:06:28,344
+Ya.
+
+113
+00:06:28,346 --> 00:06:31,064
+Sepertinya begitu.
+
+114
+00:06:31,066 --> 00:06:33,433
+Baiklah, ini ambil. /
+Tidak, tak usah.
+
+115
+00:06:33,435 --> 00:06:35,735
+Ibu rasa itu bukan ide yang bagus.
+
+116
+00:06:35,737 --> 00:06:37,604
+Aku harus berhenti.
+Itu intinya, 'kan?
+
+117
+00:06:37,606 --> 00:06:39,405
+Nick, ambillah.
+
+118
+00:06:44,863 --> 00:06:46,663
+Nick! /
+Berikan saja ke Griselda.
+
+119
+00:06:46,665 --> 00:06:48,948
+Dia lebih butuh.
+Ibu sendiri yang bilang.
+
+120
+00:06:48,950 --> 00:06:50,416
+Ibu tahu,...
+
+121
+00:06:50,418 --> 00:06:54,420
+...tapi kita ingin menghilangkan
+ketergantunganmu perlahan-lahan.
+
+122
+00:06:54,422 --> 00:06:57,040
+Jadi agar tidak terulang lagi.
+
+123
+00:06:57,042 --> 00:06:58,925
+Kukira Ibu akan bahagia.
+
+124
+00:07:00,295 --> 00:07:02,095
+Ibu bahagia, hanya saja--
+
+125
+00:07:06,184 --> 00:07:10,103
+Baiklah, kalau kau memerlukannya,
+Ibu menaruhnya di sini.
+
+126
+00:07:10,105 --> 00:07:12,772
+Janganlah sok pahlawan. /
+Tidak.
+
+127
+00:07:14,109 --> 00:07:16,309
+Hei, Ibu. /
+Ya?
+
+128
+00:07:16,311 --> 00:07:17,977
+Kau baik-baik saja?
+
+129
+00:07:17,979 --> 00:07:20,396
+Berenanglah.
+
+130
+00:07:23,318 --> 00:07:25,818
+<i>Dengarkan, semuanya.</i>
+
+131
+00:07:27,706 --> 00:07:30,490
+Sebagai kepala detasemen...
+
+132
+00:07:30,492 --> 00:07:34,160
+...dengan bangga kuumumkan bahwa
+kita bebas dari infeksi...
+
+133
+00:07:34,162 --> 00:07:37,130
+...untuk jarak 9,7 KM dari batas perimeter.
+
+134
+00:07:37,132 --> 00:07:39,666
+Kita dalam posisi menyerang.
+
+135
+00:07:39,668 --> 00:07:42,051
+Kondisi telah berubah.
+
+136
+00:07:42,053 --> 00:07:44,003
+<i>Ya.</i>
+
+137
+00:07:44,005 --> 00:07:47,674
+Komandan memintaku membaca ini.
+
+138
+00:07:47,676 --> 00:07:50,343
+"Tetap diingatkan,
+DZ (Area Berbahaya) tetap ditutup...
+
+139
+00:07:50,345 --> 00:07:52,729
+...selagi tim melakukan pembersihan
+dari bahan dengan kandungan berbahaya."
+
+140
+00:07:52,731 --> 00:07:54,897
+<i>Bahan dengan kandungan berbahaya apa?</i>
+
+141
+00:07:54,899 --> 00:07:56,649
+Aku yang membaca, dan kalian
+semua cukup mendengarkan.
+
+142
+00:07:56,651 --> 00:07:58,768
+<i>Kapan sambungan telepon bisa digunakan?</i>
+
+143
+00:07:58,770 --> 00:08:01,654
+"Siapa saja yang berusaha melanggar..."
+
+144
+00:08:01,656 --> 00:08:03,489
+"...dan keluar dari batas perimeter,
+akan kami tahan."
+
+145
+00:08:03,491 --> 00:08:05,608
+<i>Apa kita akan dipindahkan?</i>
+
+146
+00:08:05,610 --> 00:08:07,944
+Tuan, ini tempat yang aman,
+jadi kalian akan tetap berada di sini.
+
+147
+00:08:07,946 --> 00:08:10,663
+<i>"Jam malam tetap berlaku sampai
+pemberitahuan selanjutnya."</i>
+
+148
+00:08:10,665 --> 00:08:13,116
+"Kebijakan pemeriksaan kesehatan
+yang baru akan terus dilanjutkan."
+
+149
+00:08:13,118 --> 00:08:16,119
+"Sanitasi, air bersih dan
+pelayanan lainnya akan diberikan..."
+
+150
+00:08:16,121 --> 00:08:17,670
+"...sembari kita mengusahakan
+pengendalian penuh."
+
+151
+00:08:17,672 --> 00:08:20,006
+Pak, kami butuh obat.
+Bagaimana dengan itu?
+
+152
+00:08:20,008 --> 00:08:22,458
+Kami akan mengusahakannya.
+"Jadi tetaplah merebus air kalian."
+
+153
+00:08:22,460 --> 00:08:25,878
+"Kalian juga akan diberikan
+beberapa tablet yodium."
+
+154
+00:08:25,880 --> 00:08:28,097
+Orang-orang di luar pagar?
+Ke mana kalian membawa mereka?
+
+155
+00:08:28,099 --> 00:08:29,799
+<i>Ke mana?
+Ke mana?</i>
+
+156
+00:08:29,801 --> 00:08:32,051
+Dengarkan, semuanya.
+
+157
+00:08:32,053 --> 00:08:36,522
+Kalian salah satu dari 12 zona aman...
+
+158
+00:08:36,524 --> 00:08:38,891
+...di wilayah Selatan San Gabriels, oke?
+
+159
+00:08:38,893 --> 00:08:40,727
+Kalian salah satu yang beruntung.
+
+160
+00:08:40,729 --> 00:08:43,479
+Kalian bisa tinggal di rumah kalian.
+
+161
+00:08:43,481 --> 00:08:45,698
+Terimalah keadaan kalian.
+
+162
+00:08:45,700 --> 00:08:49,986
+Tenanglah, dan syukuri apa yang ada.
+
+163
+00:08:49,988 --> 00:08:52,739
+Jadi aku tak perlu menembaki kalian.
+
+164
+00:08:52,741 --> 00:08:54,657
+Ya.
+
+165
+00:08:54,659 --> 00:08:56,459
+Siapa namamu, Nona?
+
+166
+00:08:56,461 --> 00:08:57,794
+Alicia Clark.
+
+167
+00:08:57,796 --> 00:08:59,328
+Clark.
+Ya, ini dia.
+
+168
+00:09:02,584 --> 00:09:04,634
+Hai. /
+Hai.
+
+169
+00:09:04,636 --> 00:09:07,170
+Ofelia Salazar.
+
+170
+00:09:07,172 --> 00:09:11,140
+Bisa kau eja namamu?
+
+171
+00:09:11,142 --> 00:09:14,927
+S-a-l-a...
+Kau bahkan tak mencari namaku.
+
+172
+00:09:14,929 --> 00:09:16,763
+Ya, ini dia.
+
+173
+00:09:16,765 --> 00:09:19,182
+Ofelia.
+
+174
+00:09:25,774 --> 00:09:28,524
+Tn. Manawa? /
+Ya, pak?
+
+175
+00:09:28,526 --> 00:09:30,943
+Bisa bicara sejenak?
+
+176
+00:09:30,945 --> 00:09:33,362
+Kemarilah.
+
+177
+00:09:33,364 --> 00:09:36,833
+Semoga harimu menyenangkan. /
+Ya, kau juga.
+
+178
+00:09:36,835 --> 00:09:39,168
+Satu paket untuk sekeluarga.
+Begitu peraturannya.
+
+179
+00:09:39,170 --> 00:09:41,954
+Pria yang tinggal di rumah dengan
+mobil tertutup terpal, Thompson.
+
+180
+00:09:41,956 --> 00:09:43,589
+Doug Thompson, benar. /
+Baiklah.
+
+181
+00:09:43,591 --> 00:09:45,341
+Dia tak mau melakukan pemeriksaan.
+
+182
+00:09:45,343 --> 00:09:46,759
+Dan istrinya pikir kalau...
+
+183
+00:09:46,761 --> 00:09:48,795
+...mungkin kau bisa membujuknya.
+
+184
+00:09:48,797 --> 00:09:51,047
+Aku tak terlalu mengenalnya.
+
+185
+00:09:51,049 --> 00:09:53,683
+Kami pernah sekali minum bir bersama,
+dan dia menunjukkan mobil rancangannya.
+
+186
+00:09:53,685 --> 00:09:55,718
+Kau penggemar otomotif?
+
+187
+00:09:55,720 --> 00:09:58,187
+Ya, aku menyimpan mobil Ford
+ayahku selama 30 tahun.
+
+188
+00:09:58,189 --> 00:10:01,557
+30 tahun, bagus sekali.
+Bisa tidak kau bantu aku?
+
+189
+00:10:01,559 --> 00:10:05,228
+Aku tak terlalu mengenalnya. /
+Baiklah.
+
+190
+00:10:05,230 --> 00:10:08,648
+Aku hanya mencoba menghindari masalah.
+
+191
+00:10:08,650 --> 00:10:11,484
+Jadi, sebaiknya masuklah
+dan bujuk dia.
+
+192
+00:10:11,486 --> 00:10:13,986
+Atau aku akan ke dalam dan menghajarnya.
+
+193
+00:10:13,988 --> 00:10:17,073
+Ya atau tidak? /
+Baiklah.
+
+194
+00:10:17,075 --> 00:10:19,792
+Bagus.
+Gunakan sarung tangan.
+
+195
+00:10:35,059 --> 00:10:37,593
+Sudah berapa lama dia di dalam sana?
+
+196
+00:10:37,595 --> 00:10:39,262
+Dia bertingkah aneh kemarin...
+
+197
+00:10:39,264 --> 00:10:41,981
+...lalu saat makan malam, dia--
+
+198
+00:10:41,983 --> 00:10:44,817
+Maria, sudah berapa lama?
+
+199
+00:10:44,819 --> 00:10:47,937
+Sejak makan malam kemarin.
+
+200
+00:10:47,939 --> 00:10:50,356
+Para tentara hanya ingin bicara
+padanya, tetapi kupikir--
+
+201
+00:10:50,358 --> 00:10:53,025
+Kupikir lebih baik dia bicara
+dengan seseorang yang dia kenal.
+
+202
+00:10:53,027 --> 00:10:55,055
+Dia menyukaimu, jadi--
+
+203
+00:11:04,789 --> 00:11:06,455
+Doug?
+
+204
+00:11:09,460 --> 00:11:11,260
+Doug?
+
+205
+00:11:15,717 --> 00:11:17,216
+Doug?
+
+206
+00:11:33,284 --> 00:11:34,784
+Ada apa?
+
+207
+00:11:34,786 --> 00:11:36,485
+Hei, Trav.
+
+208
+00:11:38,489 --> 00:11:40,706
+Kau membuat keluargamu khawatir.
+
+209
+00:11:40,708 --> 00:11:42,325
+Aku tahu.
+
+210
+00:11:42,327 --> 00:11:45,628
+Tapi kurasa--
+
+211
+00:11:45,630 --> 00:11:47,630
+Kurasa aku tak bisa melakukannya.
+
+212
+00:11:49,417 --> 00:11:51,551
+Melakukan apa?
+
+213
+00:12:08,937 --> 00:12:10,403
+Tenanglah.
+
+214
+00:12:10,405 --> 00:12:12,021
+Mereka terus menanyaiku apa
+yang terjadi.
+
+215
+00:12:12,023 --> 00:12:14,440
+Dan bertanya apa semuanya
+akan baik-baik saja.
+
+216
+00:12:14,442 --> 00:12:17,443
+Dan aku tak tahu jawabannya.
+
+217
+00:12:19,163 --> 00:12:21,831
+Semuanya akan baik-baik saja.
+
+218
+00:12:24,619 --> 00:12:26,202
+Itulah yang kau katakan.
+
+219
+00:12:28,256 --> 00:12:30,206
+Hanya itu yang perlu kau katakan.
+
+220
+00:12:33,127 --> 00:12:34,927
+Apa mereka akan tahu kalau
+aku berbohong?
+
+221
+00:12:38,633 --> 00:12:42,468
+Doug, keluargamu membutuhkanmu.
+
+222
+00:12:43,438 --> 00:12:45,605
+Sekarang.
+
+223
+00:12:45,607 --> 00:12:48,557
+Mereka ingin kau keluar...
+
+224
+00:12:48,559 --> 00:12:50,810
+...dan beritahu tentara itu kalau
+kau akan baik-baik saja.
+
+225
+00:12:50,812 --> 00:12:52,561
+Perlihatkan kalau kau baik-baik saja.
+
+226
+00:12:55,483 --> 00:12:57,733
+Begitu saja.
+
+227
+00:12:57,735 --> 00:12:59,986
+Ya.
+
+228
+00:14:59,824 --> 00:15:01,774
+Tegarlah, kawan.
+
+229
+00:15:18,342 --> 00:15:20,760
+Hei, tampan.
+
+230
+00:15:20,762 --> 00:15:22,928
+Aku harus pergi.
+
+231
+00:15:22,930 --> 00:15:25,681
+Persediaanmu sudah cukup
+untuk malam ini, oke?
+
+232
+00:15:29,470 --> 00:15:31,854
+Kondisinya sudah stabil.
+
+233
+00:15:31,856 --> 00:15:33,556
+Morfin membantu dia tidur.
+
+234
+00:15:33,558 --> 00:15:35,891
+Kau tak bisa tinggal?
+Aku sedang buat sup.
+
+235
+00:15:35,893 --> 00:15:38,444
+Bahan-bahannya langsung dari kebunku.
+
+236
+00:15:38,446 --> 00:15:40,529
+Aku perlu memeriksa orang lain.
+
+237
+00:15:40,531 --> 00:15:43,449
+Kalau begitu bawa saja supnya.
+
+238
+00:15:43,451 --> 00:15:46,485
+Pasti banyak orang yang sakit
+seperti Hector.
+
+239
+00:15:46,487 --> 00:15:48,454
+Di rumah sakit?
+
+240
+00:15:48,456 --> 00:15:50,122
+Ya.
+
+241
+00:15:56,130 --> 00:15:57,997
+Ambillah.
+
+242
+00:15:57,999 --> 00:16:01,133
+Aku tak tahu harus berbuat apa.
+
+243
+00:16:01,135 --> 00:16:03,335
+Hanya Hector yang kumiliki.
+
+244
+00:16:04,589 --> 00:16:06,338
+Terima kasih.
+
+245
+00:16:09,844 --> 00:16:12,595
+<i>Terima kasih, Liza.
+Sampai jumpa besok.</i>
+
+246
+00:16:38,706 --> 00:16:41,423
+Mengapa kau memperlihatkanku itu? /
+Kau melihatnya?
+
+247
+00:16:41,425 --> 00:16:43,792
+Mengapa kau tak perlihatkan ayahmu?
+
+248
+00:16:43,794 --> 00:16:46,846
+Sudah kucoba, tapi dia
+bilang itu tak berarti apa-apa.
+
+249
+00:16:46,848 --> 00:16:50,599
+Mungkin ayahmu benar.
+Mungkin saja hanya sebuah benda, jendela...
+
+250
+00:16:50,601 --> 00:16:52,301
+...atau semacamnya.
+
+251
+00:16:52,303 --> 00:16:54,770
+Gerakannya berpola.
+
+252
+00:16:54,772 --> 00:16:56,555
+Ada seseorang di luar sana.
+
+253
+00:16:56,557 --> 00:16:58,557
+Seseorang yang hidup, yang butuh
+bantuan kita.
+
+254
+00:16:58,559 --> 00:17:00,025
+Kita tak tahu soal itu.
+
+255
+00:17:00,027 --> 00:17:01,694
+Apa lagi kalau bukan itu?
+Mengapa dia--
+
+256
+00:17:01,696 --> 00:17:03,696
+Kalau mereka butuh bantuan,
+mereka akan mencari para tentara.
+
+257
+00:17:03,698 --> 00:17:06,949
+Mungkin mereka tak bisa,
+atau mereka tak mau.
+
+258
+00:17:10,037 --> 00:17:11,871
+Apa kau melihatnya?
+
+259
+00:17:52,808 --> 00:17:54,814
+<i>3-2 Echo (32E), ini Bravo Actual (BA)...</i>
+
+260
+00:17:54,934 --> 00:17:56,839
+...bersiap untuk laporan, ganti.
+
+261
+00:17:59,526 --> 00:18:01,526
+<i>3-2 Echo (32E), ini Bravo Actual (BA)...</i>
+
+262
+00:18:01,528 --> 00:18:03,862
+Kau takkan menjawabnya?
+
+263
+00:18:03,864 --> 00:18:05,030
+Mereka akan meninggalkan pesan.
+
+264
+00:18:14,908 --> 00:18:17,793
+Aku terus memikirkanmu sepanjang hari.
+
+265
+00:18:17,795 --> 00:18:19,661
+Aku tak bisa berkonsentrasi.
+
+266
+00:18:30,841 --> 00:18:34,142
+Tunggu dulu.
+
+267
+00:18:34,144 --> 00:18:36,678
+Mungkin kita lakukan perlahan-lahan.
+
+268
+00:18:36,680 --> 00:18:39,147
+Benar, mungkin benar.
+
+269
+00:18:39,149 --> 00:18:41,566
+Maaf, apa kau marah? /
+Tidak.
+
+270
+00:18:41,568 --> 00:18:45,103
+Tidak. Tak apa, hanya saja--
+
+271
+00:18:45,105 --> 00:18:47,439
+Aku menyukaimu, Ofelia.
+
+272
+00:18:47,441 --> 00:18:49,274
+Kau satu-satunya...
+
+273
+00:18:49,276 --> 00:18:52,077
+...yang membuatku percaya masih
+ada kebaikan dalam diri seseorang.
+
+274
+00:18:52,079 --> 00:18:55,030
+Tentu saja.
+
+275
+00:18:59,870 --> 00:19:01,870
+Hei...
+
+276
+00:19:01,872 --> 00:19:03,839
+...apa kau sudah dapatkan obatnya?
+
+277
+00:19:03,841 --> 00:19:07,125
+Sudah kutanya bagian medis.
+
+278
+00:19:07,127 --> 00:19:08,510
+Apa katanya?
+
+279
+00:19:08,512 --> 00:19:10,679
+Mereka menyimpannya.
+
+280
+00:19:10,681 --> 00:19:12,130
+Kurasa mereka menyiapkannya...
+
+281
+00:19:12,132 --> 00:19:15,801
+...saat kita mengambil alih kota lagi.
+
+282
+00:19:15,803 --> 00:19:18,687
+Ibuku sangat sakit.
+
+283
+00:19:18,689 --> 00:19:21,523
+Aku tahu itu.
+
+284
+00:19:25,562 --> 00:19:27,395
+<i>Di mana keberadaanmu? /</i>
+Maafkan aku.
+
+285
+00:19:27,397 --> 00:19:30,315
+<i>Berikan tanggapan.</i>
+
+286
+00:19:30,317 --> 00:19:32,317
+<i>Bravo Actual, ini 3-2 Echo...</i>
+
+287
+00:19:32,319 --> 00:19:34,236
+...aku sudah menyelesaikan patroli...
+
+288
+00:19:34,238 --> 00:19:35,704
+...dan akan segera kembali.
+
+289
+00:19:50,838 --> 00:19:53,305
+Apa itu seks karena kau merasa bersalah?
+
+290
+00:19:53,307 --> 00:19:54,806
+Kita harus lebih sering bertengkar.
+
+291
+00:20:04,101 --> 00:20:05,684
+Hei.
+
+292
+00:20:05,686 --> 00:20:09,020
+Kenapa terburu-buru?
+Kukira kau menyukainya.
+
+293
+00:20:09,022 --> 00:20:11,106
+Benar.
+
+294
+00:20:12,276 --> 00:20:13,859
+Tapi aku sibuk.
+
+295
+00:20:13,861 --> 00:20:16,244
+Apa tak bisa menunggu?
+
+296
+00:20:16,246 --> 00:20:18,079
+Kemarilah.
+
+297
+00:20:20,334 --> 00:20:21,833
+Kembalilah.
+
+298
+00:20:28,959 --> 00:20:30,509
+Ada apa?
+
+299
+00:20:30,511 --> 00:20:33,128
+Entahlah.
+
+300
+00:20:33,130 --> 00:20:35,597
+Tak ada berita dari manapun.
+
+301
+00:20:35,599 --> 00:20:37,299
+Kata Vivian, dia mendengar para tentara...
+
+302
+00:20:37,301 --> 00:20:40,435
+...membicarakan soal tempat
+karantina di luar wilayah Barstow.
+
+303
+00:20:42,272 --> 00:20:44,222
+Entahlah.
+
+304
+00:20:44,224 --> 00:20:45,774
+Vivian penggosip, tetapi--
+
+305
+00:20:45,776 --> 00:20:48,777
+Tidak, maksudku padamu.
+
+306
+00:20:48,779 --> 00:20:51,029
+Apa yang terjadi padamu?
+
+307
+00:20:51,031 --> 00:20:54,699
+<i>Kau sepanjang hari terlihat kebingungan...</i>
+
+308
+00:20:54,701 --> 00:20:57,068
+...dan membuat dirimu menggila.
+
+309
+00:20:57,070 --> 00:21:02,290
+Kau mengawasi Alicia dan Nick dengan ketat.
+
+310
+00:21:02,292 --> 00:21:03,992
+Nick perlu diawasi.
+
+311
+00:21:03,994 --> 00:21:07,212
+Aku tahu. Tapi tetap saja.
+
+312
+00:21:07,214 --> 00:21:09,497
+Kalau kita saling berbagi
+tips mengasuh anak...
+
+313
+00:21:09,499 --> 00:21:11,666
+...mungkin kau harus lebih
+perhatian pada Chris.
+
+314
+00:21:11,668 --> 00:21:13,218
+Baiklah.
+
+315
+00:21:13,220 --> 00:21:15,637
+Aku selalu memberi perhatian.
+
+316
+00:21:15,639 --> 00:21:17,305
+Perhatian yang positif.
+
+317
+00:21:19,593 --> 00:21:21,810
+Baiklah.
+
+318
+00:21:21,812 --> 00:21:26,014
+Kenapa aku merasa seperti
+melakukan kesalahan?
+
+319
+00:21:30,070 --> 00:21:31,736
+Aku merindukanmu.
+
+320
+00:21:33,657 --> 00:21:36,408
+Chris memperlihatkanku rekaman
+yang dia ambil dari atap.
+
+321
+00:21:36,410 --> 00:21:39,911
+Astaga, dia punya imajinasi tinggi.
+
+322
+00:21:39,913 --> 00:21:42,080
+Aku juga melihatnya.
+
+323
+00:21:42,082 --> 00:21:45,667
+Aku melihatnya. /
+Baiklah.
+
+324
+00:21:45,669 --> 00:21:50,288
+Apa yang kau lihat? /
+Entahlah, seperti cahaya.
+
+325
+00:21:50,290 --> 00:21:52,123
+Seperti seseorang merefleksikan
+cahaya matahari.
+
+326
+00:21:52,125 --> 00:21:55,010
+Baik, jadi kau melihat cahaya.
+
+327
+00:21:55,012 --> 00:21:56,878
+Lalu aku harus berbuat apa?
+
+328
+00:21:56,880 --> 00:22:01,099
+Pergi menemui Moyers dan bilang
+kalau anakku melihat cahaya...
+
+329
+00:22:01,101 --> 00:22:04,302
+...jadi suruh tentaramu untuk
+menghentikan tugas mereka dan--
+
+330
+00:22:04,304 --> 00:22:07,022
+Itu tugas mereka. Sudah 9 hari.
+Apa yang telah mereka perbuat?
+
+331
+00:22:07,024 --> 00:22:09,691
+Mereka menjanjikan obat-obatan, dokter...
+
+332
+00:22:09,693 --> 00:22:11,393
+...listrik, informasi.
+
+333
+00:22:11,395 --> 00:22:14,029
+Sekarang di mana itu?
+Bagaimana dengan telepon?
+
+334
+00:22:14,031 --> 00:22:16,815
+Tidakkah kau penasaran? /
+Tidak.
+
+335
+00:22:16,817 --> 00:22:18,867
+Menara jaringan telepon? /
+Mungkin mereka mengkhawatirkan hal lain.
+
+336
+00:22:18,869 --> 00:22:21,036
+Mungkin mereka tak menginginkan itu.
+
+337
+00:22:21,038 --> 00:22:24,239
+Sayang, kau dengar apa yang
+kau bilang? Kau parno.
+
+338
+00:22:24,241 --> 00:22:27,792
+Aku tak ingin mendorong sikap
+Chris ini, begitupun denganmu.
+
+339
+00:22:29,296 --> 00:22:31,129
+Jadi, kau juga melihatnya.
+
+340
+00:22:31,131 --> 00:22:34,249
+<i>Travis!</i>
+
+341
+00:22:34,251 --> 00:22:37,636
+Travis! /
+Suara Maria.
+
+342
+00:22:38,922 --> 00:22:41,172
+Maria?
+
+343
+00:22:41,174 --> 00:22:44,009
+Kau sedang apa di luar? Ini sudah jam malam. /
+Mereka bisa menembakku kalau mau.
+
+344
+00:22:44,011 --> 00:22:46,227
+Ada apa? /
+Doug menghilang.
+
+345
+00:22:46,229 --> 00:22:48,313
+Aku sedang di belakang rumah bersama
+anak-anak, dan dia menghilang.
+
+346
+00:22:48,315 --> 00:22:49,931
+Tenanglah.
+
+347
+00:22:49,933 --> 00:22:52,017
+Dia menghilang.
+Apa yang kau katakan padanya?
+
+348
+00:22:52,019 --> 00:22:55,103
+Aku tak bilang apapun. /
+Dia mengambil mobilnya.
+
+349
+00:22:55,105 --> 00:22:57,188
+Dia menggunakan mobilnya dan
+pergi entah ke mana.
+
+350
+00:22:57,190 --> 00:22:59,858
+Oke, bawa masuk anak-anak ke dalam. /
+Tidak, mereka tetap bersamaku.
+
+351
+00:22:59,860 --> 00:23:02,444
+Kuyakin dia baik-baik saja.
+Mungkin dia hanya ingin menyendiri.
+
+352
+00:23:02,446 --> 00:23:04,996
+Kita tak diperbolehkan berkendara
+di dalam pagar ini, Travis.
+
+353
+00:23:04,998 --> 00:23:06,448
+Aku tahu.
+
+354
+00:23:06,450 --> 00:23:08,750
+Bagaimana jika--
+Astaga.
+
+355
+00:23:08,752 --> 00:23:10,752
+Dengar, jangan berpikiran begitu.
+
+356
+00:23:10,754 --> 00:23:14,456
+Aku akan mencarinya.
+Akan kucari ayahmu.
+
+357
+00:23:14,458 --> 00:23:17,959
+Kita akan menemukannya.
+Biar kuantar kalian pulang.
+
+358
+00:23:54,915 --> 00:23:56,715
+Sial.
+
+359
+00:24:27,510 --> 00:24:30,308
+Ah, sial.
+Melenceng.
+
+360
+00:24:30,310 --> 00:24:32,527
+<i>Istrinya khawatir dia pergi.</i>
+
+361
+00:24:32,529 --> 00:24:34,896
+Kuminta kirim satu orang saja.
+
+362
+00:24:34,898 --> 00:24:37,399
+Dia belum lama menghilang. /
+Dia tak menghilang.
+
+363
+00:24:37,401 --> 00:24:39,067
+Kami menemukan Doug Thompson semalam.
+
+364
+00:24:39,069 --> 00:24:40,619
+<i>Menemukannya di dekat pagar.</i>
+
+365
+00:24:40,621 --> 00:24:43,288
+Menangis di atas mobilnya.
+
+366
+00:24:43,290 --> 00:24:47,742
+Dia sangat keras kepala.
+
+367
+00:24:47,744 --> 00:24:50,295
+Kami tak ingin dia berada di pengungsian ini.
+
+368
+00:24:50,297 --> 00:24:51,997
+Sialan.
+
+369
+00:24:53,500 --> 00:24:55,634
+Jangan menatapku seperti begitu.
+
+370
+00:24:55,636 --> 00:24:58,219
+Bukan aku yang memutuskan, walaupun
+aku setuju. Kaupun juga seharusnya.
+
+371
+00:24:58,221 --> 00:24:59,888
+Kau bicara padanya?
+
+372
+00:24:59,890 --> 00:25:01,973
+Apa dia baik-baik saja?
+
+373
+00:25:01,975 --> 00:25:04,592
+Tidak. /
+Tidak.
+
+374
+00:25:04,594 --> 00:25:06,011
+Jadi, bagaimana?
+
+375
+00:25:06,013 --> 00:25:08,013
+Thompson dapat bantuan
+yang dia sangat perlukan...
+
+376
+00:25:08,015 --> 00:25:10,015
+...di kamp utama...
+
+377
+00:25:10,017 --> 00:25:13,601
+...dan aku tak perlu mengkhawatirkan
+seseorang yang menggila dalam sana.
+
+378
+00:25:13,603 --> 00:25:15,020
+Sama-sama menguntungkan.
+
+379
+00:25:15,022 --> 00:25:17,238
+Kau bisa saja memberi kabar
+pada istrinya, Pak.
+
+380
+00:25:17,240 --> 00:25:19,524
+Aku bukanlah pekerja sosial.
+
+381
+00:25:19,526 --> 00:25:21,076
+Itu tugasmu, pak Walikota.
+
+382
+00:25:21,078 --> 00:25:24,029
+Sekarang, pergilah dan beritahu istrinya.
+
+383
+00:25:25,782 --> 00:25:28,783
+Ada apa?
+
+384
+00:25:28,785 --> 00:25:32,170
+Anakku melihat gerakan cahaya
+di area berbahaya.
+
+385
+00:25:32,172 --> 00:25:35,173
+Di bagian bukit.
+
+386
+00:25:35,175 --> 00:25:37,336
+Tak ada orang hidup di luar sana.
+
+387
+00:25:39,379 --> 00:25:43,264
+Kami menyisir seluruh rumah.
+
+388
+00:25:43,266 --> 00:25:45,266
+Aku tahu.
+
+389
+00:25:45,268 --> 00:25:47,852
+Lupakan saja perkataanku. /
+Ya.
+
+390
+00:25:49,890 --> 00:25:52,390
+Itu baru benar.
+
+391
+00:26:02,486 --> 00:26:04,285
+Cynthia?
+
+392
+00:26:06,740 --> 00:26:08,039
+Cynthia?
+
+393
+00:26:15,298 --> 00:26:18,133
+Liza, di situ kau rupanya.
+
+394
+00:26:18,135 --> 00:26:20,001
+Di mana Hector?
+
+395
+00:26:20,003 --> 00:26:22,087
+Mendapatkan perawatan.
+
+396
+00:26:22,089 --> 00:26:23,922
+Siapa kau?
+
+397
+00:26:23,924 --> 00:26:25,724
+Dr. Exner.
+
+398
+00:26:25,726 --> 00:26:27,425
+<i>Dia dari pemerintah.</i>
+
+399
+00:26:27,427 --> 00:26:29,427
+<i>Cynthia bercerita banyak soal dirimu.</i>
+
+400
+00:26:29,429 --> 00:26:31,429
+Oh.
+
+401
+00:26:31,431 --> 00:26:33,148
+Apa yang dia katakan?
+
+402
+00:26:33,150 --> 00:26:35,400
+Kalau kau alasan suaminya
+masih bertahan hidup.
+
+403
+00:26:35,402 --> 00:26:36,768
+Dan kau perawat yang luar biasa.
+
+404
+00:26:36,770 --> 00:26:38,186
+Perawat yang handal.
+
+405
+00:26:38,188 --> 00:26:40,271
+Yang cukup menjadikanmu
+sama dengan dokter.
+
+406
+00:26:42,492 --> 00:26:43,742
+Ke mana kau membawa Hector?
+
+407
+00:26:43,744 --> 00:26:45,493
+Duduklah.
+
+408
+00:26:45,495 --> 00:26:48,446
+Aku ingin melihatnya.
+
+409
+00:26:48,448 --> 00:26:51,499
+Cynthia bersedia menunjukkan
+laporan kondisi kesehatannya.
+
+410
+00:26:51,501 --> 00:26:53,752
+Dan aku akui kalau aku
+kurang familiar dengan--
+
+411
+00:26:53,754 --> 00:26:55,703
+Aku harus menjelaskan ini padamu.
+
+412
+00:26:55,705 --> 00:26:57,872
+Cynthia, bisa tinggalkan kami berdua?
+
+413
+00:26:57,874 --> 00:26:59,541
+Tentu saja.
+
+414
+00:26:59,543 --> 00:27:01,543
+Tentu saja.
+
+415
+00:27:01,545 --> 00:27:05,713
+Aku harus berkemas juga.
+
+416
+00:27:05,715 --> 00:27:08,633
+Liza, kau penolong.
+
+417
+00:27:08,635 --> 00:27:10,802
+Oh.
+
+418
+00:27:16,777 --> 00:27:18,643
+Ke mana dia akan pergi?
+
+419
+00:27:18,645 --> 00:27:21,529
+Dia ingin bersama suaminya.
+
+420
+00:27:21,531 --> 00:27:23,231
+Ke mana?
+
+421
+00:27:23,233 --> 00:27:26,868
+Kau menggunakan morfin padanya.
+Hal yang tak lazim dilakukan.
+
+422
+00:27:26,870 --> 00:27:31,456
+Aku tak punya asam nitrat...
+
+423
+00:27:31,458 --> 00:27:34,325
+...jadi aku harus meminta
+dari tetangga lain.
+
+424
+00:27:34,327 --> 00:27:37,495
+Aku harus mencari cara untuk
+menurunkan tekanan darahnya.
+
+425
+00:27:37,497 --> 00:27:39,047
+Bagaimana dengan pasien lainmu?
+
+426
+00:27:39,049 --> 00:27:40,882
+Aku telah ketemu 4 orang...
+
+427
+00:27:40,884 --> 00:27:43,218
+...yang mengatakan kalau kaulah
+yang merawat mereka.
+
+428
+00:27:43,220 --> 00:27:45,753
+Aku hanya membantu mereka sebisaku.
+
+429
+00:27:45,755 --> 00:27:48,556
+Hector-lah yang cukup parah kondisinya.
+
+430
+00:27:48,558 --> 00:27:53,428
+Kau sudah cukup baik,
+mengingat kau bukan perawat.
+
+431
+00:27:53,430 --> 00:27:55,346
+Benarkan?
+
+432
+00:28:03,240 --> 00:28:06,858
+Dia sekarat.
+Aku tak tahu harus berbuat apa.
+
+433
+00:28:06,860 --> 00:28:09,327
+Aku perlu membuatnya
+percaya padaku.
+
+434
+00:28:09,329 --> 00:28:11,279
+Agar dia bisa membiarkanku--
+
+435
+00:28:11,281 --> 00:28:12,747
+Agar aku bisa membantu.
+
+436
+00:28:12,749 --> 00:28:14,949
+Tak apa.
+
+437
+00:28:18,455 --> 00:28:21,873
+Apa kau bisa berpura-pura lagi?
+
+438
+00:28:21,875 --> 00:28:24,292
+Maksudnya?
+
+439
+00:30:08,198 --> 00:30:09,814
+Oh!
+
+440
+00:30:52,525 --> 00:30:54,242
+Ah!
+
+441
+00:31:39,888 --> 00:31:41,371
+Sudah kuobati.
+
+442
+00:31:41,491 --> 00:31:42,889
+Sudah kukeringkan lukanya.
+
+443
+00:31:42,891 --> 00:31:45,025
+Dan ganti perbannya dua kali sehari.
+
+444
+00:31:45,473 --> 00:31:47,844
+Jangan minum antibiotik.
+Akan begini selalu hasilnya.
+
+445
+00:31:47,846 --> 00:31:49,812
+Tak ada yang salah dari pengobatanmu.
+
+446
+00:31:49,814 --> 00:31:51,064
+Kami akan merawat kalian.
+
+447
+00:31:51,066 --> 00:31:53,149
+DIA BILANG KALAU-- /
+YA, AKU TAHU APA YANG MEREKA BILANG
+
+448
+00:31:53,269 --> 00:31:54,767
+ITU YANG SELALU MEREKA KATAKAN
+
+449
+00:31:55,937 --> 00:31:59,772
+Bagaimana kalian mengobatinya? /
+Kami punya fasilitas dekat sini.
+
+450
+00:31:59,774 --> 00:32:02,942
+Fasilitas militer? /
+Kepunyaan militer, terlindungi.
+
+451
+00:32:02,944 --> 00:32:06,746
+Ada tempat tidur, dokter bedah...
+
+452
+00:32:06,748 --> 00:32:08,781
+...yang dibutuhkan oleh istrimu.
+
+453
+00:32:08,783 --> 00:32:11,200
+APA DIA PIKIR AKU INI ANAK KECIL?
+
+454
+00:32:12,195 --> 00:32:14,921
+Istriku ingin tahu seberapa
+jauh tempat itu dari sini.
+
+455
+00:32:14,923 --> 00:32:16,622
+Dekat, hanya sekitar 15 menit.
+
+456
+00:32:16,624 --> 00:32:18,458
+Tak ada kemacetan sekarang ini.
+
+457
+00:32:19,711 --> 00:32:21,210
+Aku ikut dengannya.
+
+458
+00:32:21,212 --> 00:32:23,429
+Tentu saja, dia kan istrimu.
+
+459
+00:32:26,101 --> 00:32:28,384
+INI KABAR BAIK? /
+KAU YAKIN?
+
+460
+00:32:34,058 --> 00:32:37,276
+Tidak.
+
+461
+00:32:41,116 --> 00:32:44,066
+Tidak.
+
+462
+00:32:51,209 --> 00:32:52,492
+Nick?
+
+463
+00:32:53,878 --> 00:32:55,795
+Nick. /
+Apa?
+
+464
+00:32:55,797 --> 00:32:57,630
+Dia Dr. Exner.
+
+465
+00:32:59,417 --> 00:33:02,468
+Hai.
+
+466
+00:33:02,470 --> 00:33:04,670
+Aku tahu kalau kau butuh metadon.
+
+467
+00:33:06,224 --> 00:33:08,341
+Ya, aku dengan senang hati...
+
+468
+00:33:08,343 --> 00:33:12,595
+...kalau aku belum, tapi aku
+sudah menggunakannya.
+
+469
+00:33:12,597 --> 00:33:14,847
+Kapan terakhir kali kau pakai?
+
+470
+00:33:14,849 --> 00:33:17,850
+Entahlah.
+Kapan kiamat ini terjadi?
+
+471
+00:33:17,852 --> 00:33:19,685
+Beberapa hari sebelum itu.
+
+472
+00:33:23,074 --> 00:33:24,323
+Apa ini?
+
+473
+00:33:24,325 --> 00:33:27,443
+Pemeriksaan.
+Aku Dr. Exner.
+
+474
+00:33:27,445 --> 00:33:29,195
+Travis.
+
+475
+00:33:29,197 --> 00:33:31,164
+Kami bahagia melihatmu.
+
+476
+00:33:31,166 --> 00:33:33,366
+Ada sesuatu yang salah dengan Nick?
+
+477
+00:33:33,368 --> 00:33:34,750
+<i>Tidak, aku tak apa.</i>
+
+478
+00:33:34,752 --> 00:33:37,503
+Tapi mantanmu, dia seperti petugas
+kepolisian bidang narkotika.
+
+479
+00:33:37,505 --> 00:33:40,456
+Dia beritahu wanita ini
+kalau aku pecandu.
+
+480
+00:33:42,043 --> 00:33:46,462
+98,6.
+Sekarang akan kucek tekanan darahmu.
+
+481
+00:33:46,464 --> 00:33:49,966
+Jadi, kau yang memutuskan siapa
+yang pergi ke fasilitas medis itu?
+
+482
+00:33:49,968 --> 00:33:52,852
+Aku juga dapat beberapa
+masukan, tapi ya, benar.
+
+483
+00:33:52,854 --> 00:33:54,270
+Seperti Doug Thompson?
+
+484
+00:33:54,272 --> 00:33:56,272
+Aku tak bisa berbagi informasi
+soal pasien lain.
+
+485
+00:33:56,274 --> 00:33:59,942
+<i>Maaf.
+Dia selalu mengkhawatirkan semua orang.</i>
+
+486
+00:33:59,944 --> 00:34:01,444
+<i>Temanmu ada di tangan yang baik.</i>
+
+487
+00:34:01,446 --> 00:34:02,812
+<i>Sama seperti Hector Ramirez.</i>
+
+488
+00:34:02,814 --> 00:34:05,231
+<i>Sama seperti Griselda.</i>
+
+489
+00:34:06,451 --> 00:34:08,818
+Kau tak apa, Nick?
+
+490
+00:34:08,820 --> 00:34:10,369
+Ya.
+
+491
+00:34:10,371 --> 00:34:12,371
+Ya.
+
+492
+00:34:12,373 --> 00:34:14,457
+Apa Tn. Ramirez baik-baik saja?
+
+493
+00:34:14,459 --> 00:34:16,492
+Gangguan jantung masih dapat ditangani.
+
+494
+00:34:19,914 --> 00:34:22,381
+Denyut jantungmu meningkat.
+
+495
+00:34:22,383 --> 00:34:25,501
+Kau wanita yang menarik.
+
+496
+00:34:49,410 --> 00:34:51,611
+<i>Kau dari mana saja?</i>
+
+497
+00:34:51,613 --> 00:34:54,580
+<i>Dari luar pagar.</i>
+
+498
+00:34:54,582 --> 00:34:56,165
+Apa yang kau lihat?
+
+499
+00:35:04,259 --> 00:35:06,425
+Siapa dia? /
+Dokter.
+
+500
+00:35:06,427 --> 00:35:09,462
+Dia ingin membawa istriku
+dan mengoperasinya.
+
+501
+00:35:09,464 --> 00:35:11,764
+Itu berita bagus.
+
+502
+00:35:13,935 --> 00:35:15,601
+Katakan apa yang kau lihat di luar sana.
+
+503
+00:35:22,277 --> 00:35:23,893
+Mayat di mana-mana.
+
+504
+00:35:25,229 --> 00:35:27,730
+Ya.
+
+505
+00:35:27,732 --> 00:35:29,565
+Para mayat yang terinfeksi.
+
+506
+00:35:29,567 --> 00:35:31,233
+Tapi.
+
+507
+00:35:31,235 --> 00:35:33,953
+Lanjutkan.
+
+508
+00:35:33,955 --> 00:35:36,322
+Ada seseorang...
+
+509
+00:35:36,324 --> 00:35:39,458
+...yang ditembak seperti yang lainnya.
+
+510
+00:35:39,460 --> 00:35:41,744
+Tetapi dia tak sakit.
+
+511
+00:35:43,164 --> 00:35:45,748
+Dan ada orang lain sepertinya.
+
+512
+00:35:52,674 --> 00:35:56,008
+Saat aku masih muda...
+
+513
+00:35:56,010 --> 00:35:58,344
+...ada beberapa orang--
+
+514
+00:35:58,346 --> 00:36:00,096
+Mereka dari pemerintahan...
+
+515
+00:36:00,098 --> 00:36:01,564
+...datang ke kota kami...
+
+516
+00:36:01,566 --> 00:36:04,266
+...dan membawa beberapa orang pergi.
+
+517
+00:36:04,268 --> 00:36:07,603
+Dan ayahku adalah...
+
+518
+00:36:07,605 --> 00:36:09,188
+...orang penting dalam masyarakat...
+
+519
+00:36:09,190 --> 00:36:12,158
+...jadi dia pergi berbicara pada mereka...
+
+520
+00:36:12,160 --> 00:36:14,777
+...dan bertanya kapan mereka kembali?
+
+521
+00:36:16,280 --> 00:36:17,747
+Dan pemimpinnya bilang pada ayahku...
+
+522
+00:36:17,749 --> 00:36:20,449
+..."Miguel, jangan khawatir."
+
+523
+00:36:20,451 --> 00:36:22,668
+"Mereka selalu kembali."
+
+524
+00:36:24,756 --> 00:36:26,622
+Dan mereka kembali.
+
+525
+00:36:28,676 --> 00:36:32,762
+Aku sedang memancing di sungai.
+
+526
+00:36:32,764 --> 00:36:34,547
+Aku masih kanak-kanak.
+
+527
+00:36:34,549 --> 00:36:37,633
+Dan aku menemukan mereka.
+
+528
+00:36:37,635 --> 00:36:40,936
+Mereka semua sekaligus.
+
+529
+00:36:40,938 --> 00:36:42,722
+Berada di sekelilingku.
+
+530
+00:36:42,724 --> 00:36:44,607
+Di dalam air.
+
+531
+00:36:46,894 --> 00:36:51,647
+Ayahku memintaku untuk tidak dendam.
+
+532
+00:36:51,649 --> 00:36:54,233
+Katanya, mereka melakukan itu...
+
+533
+00:36:54,235 --> 00:36:56,902
+...bukan karena jahat...
+
+534
+00:36:56,904 --> 00:37:01,374
+...tapi karena takut.
+
+535
+00:37:01,376 --> 00:37:06,045
+Dan saat itu, aku sadar
+kalau ayahku bodoh...
+
+536
+00:37:06,047 --> 00:37:08,914
+...karena percaya kalau itu berbeda.
+
+537
+00:37:10,218 --> 00:37:14,970
+Kalau semua itu terjadi,
+maka itu akan terjadi dengan cepat...
+
+538
+00:37:14,972 --> 00:37:16,756
+...dan kau harus bersiap.
+
+539
+00:37:16,758 --> 00:37:19,975
+Apa yang terjadi?
+
+540
+00:37:19,977 --> 00:37:21,927
+Aku harus ikut dengan istriku.
+
+541
+00:37:21,929 --> 00:37:26,399
+Kalau aku tak kembali,
+jagalah Ofelia.
+
+542
+00:37:26,401 --> 00:37:28,067
+Dia wanita dewasa.
+Dia tak butuh--
+
+543
+00:37:28,069 --> 00:37:29,518
+Kumohon.
+
+544
+00:37:29,520 --> 00:37:33,823
+Jaga Ofelia, kumohon.
+
+545
+00:37:38,613 --> 00:37:40,529
+Terima kasih.
+
+546
+00:37:51,509 --> 00:37:53,592
+Awasi putramu.
+
+547
+00:38:45,513 --> 00:38:47,346
+Kau ingin aku bilang apa?
+
+548
+00:38:54,489 --> 00:38:56,355
+Kau tak tahu.
+
+549
+00:38:56,357 --> 00:38:57,990
+Apa?
+
+550
+00:39:02,997 --> 00:39:05,831
+Kau tak tahu apa-apa.
+
+551
+00:39:05,833 --> 00:39:07,867
+Kau tak tahu apa-apa.
+
+552
+00:39:30,424 --> 00:39:32,257
+Pergilah.
+
+553
+00:39:32,259 --> 00:39:33,625
+Kenapa dengan wajahmu?
+
+554
+00:39:33,627 --> 00:39:35,377
+Ketuk pintu dulu.
+Pergilah!
+
+555
+00:39:35,379 --> 00:39:36,532
+Hentikan.
+Aku cuma ingin melihatnya.
+
+556
+00:39:36,652 --> 00:39:37,815
+Nick!
+
+557
+00:39:37,935 --> 00:39:40,265
+Biarkan aku masuk. /
+Ada apa?
+
+558
+00:39:40,267 --> 00:39:41,716
+Biarkan aku masuk.
+
+559
+00:39:41,718 --> 00:39:44,686
+Nick, ada apa?
+
+560
+00:39:44,688 --> 00:39:47,606
+Travis, hentikan.
+Biarkan aku--
+
+561
+00:39:48,206 --> 00:39:50,192
+Aku bisa, oke?
+
+562
+00:39:51,396 --> 00:39:53,395
+Oke.
+
+563
+00:39:57,534 --> 00:40:00,652
+Nick, dia sudah pergi.
+
+564
+00:40:00,654 --> 00:40:02,320
+Biarkan aku masuk.
+
+565
+00:40:05,209 --> 00:40:07,209
+Kau ingin aku memanggil Ibu?
+
+566
+00:40:22,309 --> 00:40:25,227
+Siapa yang melakukan itu padamu?
+
+567
+00:40:25,229 --> 00:40:28,313
+Kau baik-baik saja? /
+Ya.
+
+568
+00:40:28,315 --> 00:40:30,849
+Kau ingin membicarakannya?
+
+569
+00:40:30,851 --> 00:40:32,901
+Tak apa.
+
+570
+00:40:32,903 --> 00:40:34,269
+Tak apa.
+
+571
+00:40:43,553 --> 00:40:45,864
+Tak apa.
+
+572
+00:41:20,868 --> 00:41:22,367
+Baiklah.
+
+573
+00:41:22,369 --> 00:41:23,869
+Ini bagus.
+
+574
+00:41:23,871 --> 00:41:26,238
+Baiklah.
+
+575
+00:41:26,240 --> 00:41:27,873
+Berhati-hatilah. /
+Mari.
+
+576
+00:41:30,160 --> 00:41:33,328
+Perlahan-lahan. /
+Aku tak tahu akan pergi berapa lama.
+
+577
+00:41:33,330 --> 00:41:36,131
+Belok kanan. /
+Oke.
+
+578
+00:41:36,133 --> 00:41:38,583
+Apa yang terjadi?
+
+579
+00:41:38,585 --> 00:41:41,553
+Perlahan-lahan. /
+Apa ini?
+
+580
+00:41:41,555 --> 00:41:43,667
+Kalau Griselda tak dioperasi,
+dia akan kehilangan kakinya.
+
+581
+00:41:43,787 --> 00:41:45,548
+Kau menghalangi. /
+Oke.
+
+582
+00:41:45,668 --> 00:41:48,030
+Baik, perlahan.
+
+583
+00:41:48,150 --> 00:41:49,974
+Baiklah. Kau di depan. /
+Oke.
+
+584
+00:41:50,094 --> 00:41:51,344
+Tuan, tunggu sejenak.
+
+585
+00:41:51,464 --> 00:41:53,481
+Tak apa.
+Dia istrinya.
+
+586
+00:41:53,483 --> 00:41:55,300
+Ayo.
+
+587
+00:41:55,420 --> 00:41:57,257
+Aku punya dua nama.
+
+588
+00:41:57,377 --> 00:41:59,433
+Griselda Salazar,
+Daniel Salazar.
+
+589
+00:41:59,553 --> 00:42:00,953
+Bukan kau.
+
+590
+00:42:01,203 --> 00:42:03,775
+Nicolas Clark. /
+Apa?
+
+591
+00:42:03,777 --> 00:42:07,078
+Pengobatan gratis dari militer AS.
+
+592
+00:42:07,080 --> 00:42:08,863
+Lari.
+
+593
+00:42:08,865 --> 00:42:10,532
+Whoa. /
+Hei.
+
+594
+00:42:10,534 --> 00:42:12,534
+Ini sebuah kesalahan.
+
+595
+00:42:12,536 --> 00:42:15,120
+Ini kesalahan. Nick-- /
+Tunggu!
+
+596
+00:42:15,122 --> 00:42:17,172
+Tidak! /
+Tenang!
+
+597
+00:42:17,174 --> 00:42:18,757
+Mundur! /
+Jangan sakiti dia.
+
+598
+00:42:18,759 --> 00:42:20,926
+Jangan bergerak!
+Jangan bergerak!
+
+599
+00:42:20,928 --> 00:42:22,544
+Nick! /
+Jalan.
+
+600
+00:42:22,546 --> 00:42:25,380
+Dia tak sakit. /
+Tenanglah.
+
+601
+00:42:30,354 --> 00:42:33,805
+Hei!
+
+602
+00:42:33,807 --> 00:42:35,140
+<i>Tenanglah.</i>
+
+603
+00:42:35,142 --> 00:42:36,641
+Ayah! /
+Tenanglah.
+
+604
+00:42:36,643 --> 00:42:38,026
+Mundurlah! /
+Apa yang kau lakukan?
+
+605
+00:42:38,028 --> 00:42:39,477
+Tenanglah.
+Dia masih anak-anak.
+
+606
+00:42:39,479 --> 00:42:40,729
+Mereka orang tua dan anak-anak.
+
+607
+00:42:40,731 --> 00:42:42,397
+Kau berbuat apa?
+Ini rumah kami.
+
+608
+00:42:42,399 --> 00:42:44,032
+Aku tak berbuat apa-apa.
+
+609
+00:42:45,068 --> 00:42:46,618
+Aku tak berbuat apa-apa.
+
+610
+00:42:47,955 --> 00:42:50,038
+Biarkan Nick di sini.
+Dia tak berbahaya.
+
+611
+00:42:50,040 --> 00:42:51,274
+Aku akan menjaganya.
+
+612
+00:42:51,394 --> 00:42:52,993
+Katamu kau ingin membantu.
+
+613
+00:42:53,118 --> 00:42:55,368
+Ya, tapi-- /
+Kalau begitu naiklah.
+
+614
+00:42:55,370 --> 00:42:57,454
+Kita butuh kau di Rumah Sakit.
+
+615
+00:42:57,456 --> 00:42:59,789
+Dia mengenalku.
+Biarkan aku bicara pada Moyers.
+
+616
+00:42:59,791 --> 00:43:01,458
+Tak penting.
+
+617
+00:43:01,460 --> 00:43:03,126
+Bisakah aku bicara pada Moyers?
+
+618
+00:43:03,128 --> 00:43:04,794
+Tidak.
+
+619
+00:43:07,049 --> 00:43:09,215
+Tidak!
+Nick!
+
+620
+00:43:13,171 --> 00:43:15,005
+Sudah siap!
+
+621
+00:43:15,007 --> 00:43:17,307
+Kita akan bergerak!
+
+622
+00:43:19,094 --> 00:43:20,844
+Aku punya anak.
+Dia memerlukanku.
+
+623
+00:43:20,846 --> 00:43:23,930
+Kita akan kembali menjemputnya.
+Dia aman untuk sekarang.
+
+624
+00:43:23,932 --> 00:43:27,017
+Tapi Griselda dan lainnya
+membutuhkanmu.
+
+625
+00:43:27,019 --> 00:43:28,852
+Aku membutuhkanmu.
+
+626
+00:43:30,772 --> 00:43:33,239
+Kau ikut?
+
+627
+00:43:33,241 --> 00:43:35,442
+Ayo. /
+Apa lagi yang ditunggu?
+
+628
+00:43:35,444 --> 00:43:37,861
+<i>Liza.</i>
+
+629
+00:43:37,863 --> 00:43:40,497
+Naikkan dia.
+
+630
+00:43:42,868 --> 00:43:45,452
+<i>Cepatlah.
+Kau ikut atau tidak?</i>
+
+631
+00:43:46,838 --> 00:43:48,004
+Ibu?
+
+632
+00:43:48,006 --> 00:43:50,123
+Jangan khawatir.
+
+633
+00:43:50,125 --> 00:43:52,092
+Baiklah, keluar dari sini.
+
+634
+00:43:54,713 --> 00:43:56,262
+Ibu!
+
+635
+00:43:59,301 --> 00:44:01,801
+Di mana dia?
+Ke mana kalian membawanya?
+
+636
+00:44:01,803 --> 00:44:04,104
+Di mana dia?
+Nick!
+
+637
+00:44:31,500 --> 00:44:32,499
+Chris?
+
+638
+00:44:41,810 --> 00:44:43,810
+Liza.
+
+639
+00:44:43,812 --> 00:44:45,261
+Dia yang menyebabkan semua ini.
+
+640
+00:45:14,476 --> 00:45:17,794
+"Patrick, kalau kau menemukan surat ini..."
+
+641
+00:45:17,796 --> 00:45:21,047
+"...aku mau minta maaf."
+
+642
+00:45:21,049 --> 00:45:23,850
+"Kalau kau menemukan ini,
+ketahuilah kalau aku mencintaimu."
+
+643
+00:45:26,855 --> 00:45:30,774
+"Aku melihat sesuatu hari ini,
+yang membuatku takut."
+
+644
+00:45:30,776 --> 00:45:33,476
+"Awalnya, kukira itu hal biasa."
+
+645
+00:45:33,478 --> 00:45:35,728
+"Kukira itu hanya hal menyimpang biasa."
+
+646
+00:45:35,730 --> 00:45:37,947
+"Tetapi aku salah."
+
+647
+00:45:37,949 --> 00:45:40,483
+"Apa yang kulihat sudah ternubuatkan."
+
+648
+00:45:40,485 --> 00:45:42,986
+"Apa yang kulihat telah menjadi kehendak Tuhan."
+
+649
+00:45:42,988 --> 00:45:45,622
+"Dan kurasa semuanya sudah terlambat."
+
+650
+00:45:45,624 --> 00:45:49,492
+"Kuharap kau ada di sini, tapi
+tak lama lagi kita akan bertemu."
+
+651
+00:45:49,494 --> 00:45:51,294
+"Dan kau akan memegangku."
+
+652
+00:46:01,089 --> 00:46:04,641
+"Kalau kau menemukan surat ini,
+aku minta maaf."
+
+653
+00:46:07,429 --> 00:46:10,513
+"Kalau kau menemukan ini,
+ketahuilah kalau aku mencintaimu."
+
+654
+00:46:10,861 --> 00:46:14,525
+<font color="#ff8000">Translated by er1ck9</font>
+<font color="#ffffff">-- IDFL SubsCrew --</font>
+
